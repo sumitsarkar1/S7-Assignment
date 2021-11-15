@@ -8,6 +8,7 @@
 3. Fourth layer is a Depth Wise Seperable layer
 4. First two convolutional layers are followed by a "Maxpool" layer. These "Maxpool" layers are implemented using 3x3 kernels with stride of 2
 5. Output layer consists of a single fully connected layer
+6. Total number of parameters in the network is < 200k
 
 -----------------------------------------------------------------
 ### Data Augmentation ###
